@@ -16,7 +16,7 @@
     <!-- Basic Page Needs
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>ಪ್ರೊಫೆಸರ್. ಎ. ಆರ್. ಕೃಷ್ಣಶಾಸ್ತ್ರೀ</title>
+    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>ಡಿ.ವಿ.ಕೆ ಮೂರ್ತಿ ಪ್ರಕಾಶನ</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
