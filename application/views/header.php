@@ -46,8 +46,8 @@
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Raleway:200,300,400|Roboto:300,400&amp;subset=latin-ext" rel="stylesheet">
 
     <!-- Favicon
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="icon" type="image/png" href="<?=PUBLIC_URL?>images/favicon.ico">
+    –––––––––––––––––––––––––––––––––––––––––––––––––– --><!-- 
+    <link rel="icon" type="image/png" href="<?=PUBLIC_URL?>images/favicon.ico"> -->
 </head>
 <body>
 
