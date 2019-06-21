@@ -48,7 +48,7 @@ body{
     opacity: .8;
 }
 .bookinfo{
-    padding: 20px 20px 0px 30px;
+    padding: 10px 10px 0px 20px;
     border-bottom: 1px solid rgba(220, 220, 220, 0.8);
     font-size: 22px;
     line-height: 42px;
@@ -56,17 +56,24 @@ body{
 .bookinfo .cover{
     width: 130px;
     float: left;
-    border-radius: 6px;
-    margin: 5px 30px 30px 0px;
+    padding: 10px 0px 10px 10px;
+}
+.border{
+    border-radius: 2px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.5);
+    margin: 5px;
+
 }
 .bookinfo .title{
-    font-size: 30px;
-    color: #0C1D67;
+    padding: 20px 0px 0px 15px;
+    /*font-size: 30px;*/
+    color: #D50000;
+
 }
 
 .bookinfo .author{
+    padding: 0px 0px 0px 15px;
     font-size: 24px;
-    color: #0C1D67;
 }
 
 .bookinfo .edition{
@@ -87,12 +94,12 @@ body{
 .bookinfo img{
     padding: 5px;
     border: none;
-    box-shadow: 0 1px 15px rgba(0,0,0,0.5);
 }
 .bookinfo .googleBooks a:HOVER{
     text-decoration: none;
 }
 .bookinfo .googleBooks img{
+    padding: 0px 0px 0px 15px;
     border: none;
     box-shadow: none;
     width: 40px;
