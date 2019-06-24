@@ -281,3 +281,25 @@ a.scrollMore {
     opacity: 0;
   }
 }
+
+
+.card img.card-img-top{
+    width: 130px;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.card .card-body{
+    border-top: 1px solid #CCC;
+}
+.card .card-body .card-title{
+    font-size: 24px;
+    color: #DD2717;
+    text-align: center;
+}
+p.card-text a img{
+    width: 30px;
+}
+.bookauthor{
+    text-align: center;
+    font-size: 18px;
+}
